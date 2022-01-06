@@ -1,0 +1,201 @@
+﻿input ,reply
+You have been late five times this month,No I wasn't
+Did you submit the timesheet for the week,"No, not yet"
+Could you tell me why I lost my bonus last month,I'm not clear
+When is the Ethics and Compliance training due,Its due by end of this year
+How are you doing today,"Good, thank you"
+Meeting is scheduled for 14:00 hours this afternoon. Have you booked any conference room ,Yes
+Can you all hear me okay,Not clear
+Is everything ready for tomorrow's presentation ,yes
+Is the report ready ,No. I need more time.
+Can you take care of the meeting minutes and circulate among the team members. ,Sure will do.
+Can I have the report completed by tomorrow,"Yes sure, will do"
+Our meeting has been cancelled. ,"Okay, no problem!"
+Did you not get the notice,I haven't
+"You should often check your inbox. If not, you never know what are missing out",You are right
+When is the status call again,on Monday
+I would like to go over this report with you. Can we schedule a meeting tomorrow.,Sure! What time?
+Did you go over the all hands presentation,Nope have not received it yet
+Can you share the presentation with the team,Sure will do.
+"Can you record this meeting please, we can refer the transcript later","Yes sure, will do"
+Can you send me the activity tracker ,Yes I will send it now.
+When is your last day at work,Its end of next week
+Did you get the new laptop? Status shows shipped.,Yes got it
+Let me know if you have any upcoming holiday plans,Will update in the holiday 
+Do you any backup plan for the days you are on leave,Yes I do
+Can you make a knowledge transition plan for Teresa,Yes I'm on it
+Have you implemneted this task,"No, I did not"
+Servers are down. Did anyone contact the tech support guys?,"Yes, I did"
+Did you finish the Compliance training ,Not yet.
+Have you installed all the softwares and tools required for the job?,"Yes, I'm all set"
+When are you going to come in tomorrow ?,Morning
+When are you going to come in tomorrow ?,Noon
+When are you going to come in tomorrow ?,I can't
+Lets hang out this weekend ,Sure! What time?
+My microphone's not working. ,Can you dropoff and rejoin 
+My microphone's not working. ,Can you dropoff and rejoin 
+Let me connect to my headset ,Sure
+Meeting is going to start. Can you send out the agenda,Yes I can
+Lets take a break over a cup of coffee,Ok
+Can you send over the campaign brief,Yes I will send it now.
+Can you send over the campaign brief,Will send it in few hours.
+Hey want to grab dinner,Sure! What time?
+What are you up to?,I'm working
+Want to hang out,I'd love to
+"It was a great meeting, Can you send the minutes of meeting",Sure will do.
+I need to get some training on Power BI. Where can I look for useful resources?,company learning portal. 
+This dashboard is really helpful. Can you share with the Business?,"Ok, I will. "
+We need to build a tool for ticket tracking purpose,Lets meet to discuss this today. 
+Can you add this to task list,Will add this in the task list. 
+We need to build a tool for ticket tracking purpose,Will add this in the task list. 
+Did the daily pipeline job fail today as well?,"Yes, it did"
+Can we list down all the errors that we are seeing in the job failures,I will ask someone to check that
+Are you familiar with Azure Devops environment,Not really 
+Can someone take care of moving the critical reports from the old to new share location,I will assign this task to someone
+Send me the list of the flat files which will get loaded in tonight's run,Yes on it
+Do you have the business point of contact to test the scenarios post deployment,I need to check that with the team.
+When does the deployment activities start tonight,Not sure
+What about the pre-deployment activities ,We are on targe
+Someone from Development team needs to connect to the bridge in case any support is required,I need to check that with the team.
+Did you send the deployment activities checklist yet ,Yes I did
+Did you send the deployment activities checklist yet ,No
+Business reported a production issue with the pricing feeds. Whos assigned to the ticket?,I need to check that.
+Is there any SLA set for the ticket?,"No, not yet"
+We need to get all the stakeholders involved here in the working call ,"Ok, sounds good."
+I missed the Scrum call today. Is there any priority tasks that I need to handle?,"Yes, scrum master will email you"
+Happy Monday! How was your weekend,It was great. How about yours?
+How is the Power BI report coming along?,It will be done by EOD
+Congratulations on your new job. When are you flying ?,Thanks! I'm going this Saturday
+Do you want to setup a meeting to go over the requirements?,That would be great. Thanks
+Would you be able to get on a call for 5 mins?,Yes
+Were you able to take the request I sent you and with that fix produce Email Notifications from your service?,Yes
+I'm heading out for an appointment. Let me know how your investigation goes. It may be an issue with my service who knows! I'll check back in later.,"Okay, no problem!"
+When will be the task completed?,It will be done by EOD
+"Any update? Sorry, I know it's not 5 mins.",It will be done by EOD
+"Great! So you are on step 5 now. Actually you started step 5 already, correct?",On it.
+"Any update? Sorry, I know it's not 5 mins.",Not yet.
+"Do you convert it to to GMT time in the message based on the time zone of job? I have a job with appointment start at 12 pm and appointment end at 5 pm, but in the job cancelled message they converted to 16 and 21.",I will try.
+"Regarding the defect that you fixed, I just tested with a new job, and this time the job status changed to open instead. Shall I send it back to you?","Yes, Please send it."
+Sorry I am on a urgent call for tomorrow. Would it be possible to do internal and config?,Ok we can do.
+"On a side note, I am working on that SWAG, gathering info to put in your deck.",Thanks!
+Please check this defect. Should that be with me?,"Ok, will do."
+Should I be on the call today? No items for me in it.,"No problem, I'll handle it."
+Will this be an action item for us?,Not sure
+Will this be an action item for us?,Yes
+Are you required for this invite?,Not sure.
+Have you got a chance to figure out the efforts for this action item?,Not yet.
+Can you please join my bridge?,Yes I can
+Can you join my bridge?,"Yes, details please?"
+Are you able to join?,Joining.
+Do you just pull the jar and load it manually? Or does it come from artifactory automatically? Josh will let you know where it is. It is only temporary for a test.,I pull and update manually.
+"If Josh sent you a jar or somehting like that, would you be able to test with that? We are working on this defect and want to experiment with you.","Yes, sure."
+"Good morning! Not sure why they want you on this call. I don't mind, but might be a waste of your time. We'll see.",Ok I will try to attend
+Is there any update on getting the schema?,Not yet.
+Do you need someone to work on microservices?,Yes I do
+Was anything updated or refreshed in the service yesterday?,"Yes, there was an update."
+You good with 10 min downtime?,I'm good
+Where is empty object set?,I know.
+Where is empty object set?,Not sure
+Job cancelled notification is not derived for this request.,"Ok, I will look into it."
+"BA will add new requirements by Friday noon, and we need to add code by Monday morning.",Thanks for the heads up!
+Please put due date as EOD. Busy with another issue.,"Sure thing, thanks!"
+Please let know when code freeze gets lifted.,Sure will do.
+Do you have Price class? I am looking for classes that has itemPrice attribute.,"Ok, I will look into it."
+Did u take negative covid test before flying to US?,"Yes, I did"
+How is Montreal?,It is great.
+"I dropped an email. If you have free time, please respond.","Sure, sending you soon."
+Please call on my number when you are available.,Calling
+Let me know when you want to work on the merge work. I am free to start.,"Yes, let's do it now."
+Let me know when you want to work on the merge work. I am free to start.,Give me few minutes.
+Let me know when you want to work on the merge work. I am free to start.,Need some time
+Target to complete? Can you push your stuff now and update status?,"Ok, will do."
+Is code freeze lifted?,Not yet.
+Is code freeze lifted?,Yes.
+Document review is on Wednesday. You may need some help on writing backout strategies. Let me know when you have a draft version ready.,"Sure, will let you know."
+Let's get on the assessment call now if everyone is available?,"Sure, Let's do it."
+"Hey, a couple of high priority items popped into our queue. Can you take a look? We'll need to determine if updates are required in preparation for Monday's deployment.","Ok, I will look into it."
+Re: your last email. Are you okay to do the KT before John's back? For whatever services he did?,"Ok, will do."
+Someone had tweaked the ruleset property manually. It is fixed now.,"Ok, Thanks."
+Where are you with deployment progress please?,"Yes, it is done."
+Where are you with deployment progress please?,Need some time
+"Hi Team, can you give me the high level explanation on this dependency? We require a fetch of the Materialized Views as we are using dynamic domains for regions and districts. The values must be loaded into so we can fetch the entries. This is because?","Ok, I will look into it."
+Just gave GO for your project as well. So wanted to confirm.,"Ok, I will look into it."
+Did you implement your changes or just my changes,Mine
+Did you implement your changes or just my changes,Yours
+Do I merge everything or just my changes?,Mine
+Do I merge everything or just my changes?,Yours
+There is Java heap space out of memory error.,"Ok, I will look into it."
+I would like to do a server restart at noon.,"Ok, Sure"
+Let you know as soon as I am done.,"Ok, Thanks."
+Will you attend the Team meeting today at 1:00 PM?,"Yes, I will"
+Will you attend the meeting tomorrow at 1:00 PM?,"Yes, I will"
+Can you attend the Stockholders meeting today at 3:00 PM?,"Yes, I will"
+Can you attend the meeting today at 5:00 PM?,"Yes, I will"
+Can you attend the Design meeting tomorrow at 3:00 PM?,"Yes, I will"
+Can you attend the meeting tomorrow at 10:00 AM?,"Yes, I will"
+Will you attend the meeting tomorrow at 10:00 AM?,"Yes, I will"
+Will you attend the meeting today at 11:00 AM?,"Yes, I will"
+Will you attend the Team meeting today at 1:00 PM?,No I can't
+Will you attend the meeting tomorrow at 1:00 PM?,No I can't
+Can you attend the Stockholders meeting today at 3:00 PM?,No I can't
+Can you attend the meeting today at 5:00 PM?,No I can't
+Can you attend the Design meeting tomorrow at 3:00 PM?,No I can't
+Can you attend the meeting tomorrow at 10:00 AM?,No I can't
+Will you attend the meeting tomorrow at 10:00 AM?,No I can't
+Will you attend the meeting today at 11:00 AM?,No I can't
+Will you attend the Team meeting today at 1:00 PM?,Not sure
+Will you attend the meeting tomorrow at 1:00 PM?,Not sure
+Can you attend the Stockholders meeting today at 3:00 PM?,Not sure
+Can you attend the meeting today at 5:00 PM?,Not sure
+Can you attend the Design meeting tomorrow at 3:00 PM?,Not sure
+Can you attend the meeting tomorrow at 10:00 AM?,Not sure
+Will you attend the meeting tomorrow at 10:00 AM?,Not sure
+Will you attend the meeting today at 11:00 AM?,Not sure
+Please attend the meeting,"Yes, I will"
+Please Join the meeting,"Yes, I will"
+Please attend the call,"Yes, I will"
+please join the call,"Yes, I will"
+Please attend the meeting,No I can't
+Please Join the meeting,No I can't
+Please attend the call,No I can't
+please join the call,No I can't
+Please attend the meeting,Not sure
+Please Join the meeting,Not sure
+Please attend the call,Not sure
+please join the call,Not sure
+Will you attend the Team Zoom meeting today at 1:00 PM?,"Yes, I will"
+Will you attend the Zoom meeting tomorrow at 1:00 PM?,"Yes, I will"
+Can you attend the Stockholders call today at 3:00 PM?,"Yes, I will"
+Can you attend the zoom meeting today at 5:00 PM?,"Yes, I will"
+Can you attend the Design Zoom meeting tomorrow at 3:00 PM?,"Yes, I will"
+Can you attend the Zoom meeting tomorrow at 10:00 AM?,"Yes, I will"
+Will you attend the Zoom meeting tomorrow at 10:00 AM?,"Yes, I will"
+Will you attend the Zoom meeting today at 11:00 AM?,"Yes, I will"
+Will you attend the Team Zoom meeting today at 1:00 PM?,No I can't
+Will you attend the Zoom meeting tomorrow at 1:00 PM?,No I can't
+Can you attend the Stockholders call today at 3:00 PM?,No I can't
+Can you attend the Zoom meeting today at 5:00 PM?,No I can't
+Can you attend the Design Zoom meeting tomorrow at 3:00 PM?,No I can't
+Can you attend the Zoom meeting tomorrow at 10:00 AM?,No I can't
+Will you attend the Zoom meeting tomorrow at 10:00 AM?,No I can't
+Will you attend the Zoom meeting today at 11:00 AM?,No I can't
+Will you attend the Team Zoom meeting today at 1:00 PM?,Not sure
+Will you attend the Zoom meeting tomorrow at 1:00 PM?,Not sure
+Can you attend the Stockholders Zoom meeting today at 3:00 PM?,Not sure
+Can you attend the Zoom meeting today at 5:00 PM?,Not sure
+Can you attend the Zoom Design meeting tomorrow at 3:00 PM?,Not sure
+Can you attend the Zoom meeting tomorrow at 10:00 AM?,Not sure
+Will you attend the Zoom meeting tomorrow at 10:00 AM?,Not sure
+Will you attend the Zoom meeting today at 11:00 AM?,Not sure
+Please attend the Zoom meeting,"Yes, I will"
+Please Join the Zoom meeting,"Yes, I will"
+Please attend the Zoom call,"Yes, I will"
+please join the Zoom call,"Yes, I will"
+Please attend the Zoom meeting,No I can't
+Please Join the Zoom meeting,No I can't
+Please attend the Zoom call,No I can't
+please join the Zoom call,No I can't
+Please attend the Zoom meeting,Not sure
+Please Join the Zoom meeting,Not sure
+Please attend the Zoom call,Not sure
+please join the Zoom call,Not sure
